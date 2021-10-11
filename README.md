@@ -1,8 +1,12 @@
 # Grounding Spatio Temporal Language with Transformer
 
-This repository gives all the information required to reproduce the results of the paper Grounding Spatio-Temporal Language with Transformers. To reproduce our results, you will need access to nvidia GPUs with at least 16GB ram. 
+This repository gives all the information required to reproduce the results of the paper [Grounding Spatio-Temporal Language with Transformers](https://arxiv.org/abs/2106.08858). To reproduce our results, you will need access to nvidia GPUs with at least 16GB ram. 
 
 ## Context
+
+In this paper, we study how autonomous agents can ground the meaning of spatio-temporal concepts. We propose a novel Embodied Language Grounding task in order to study the generalization capabilities of Multi-modal Transformers on spatio-temporal language describing behavioral traces of an agent.
+
+![thumbnail_grounding_spatio_temporal_language](https://user-images.githubusercontent.com/29377658/136802907-a34ce055-a598-4e5a-b119-86279fae05ec.png)
 
 
 ## Getting started
