@@ -1,0 +1,20 @@
+name: wmg
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - python-blosc
+  - pandas
+  - matplotlib
+  - dill
+  - scikit-learn
+  - git
+  - gitpython
+  - jax
+  - mpi4py
+  - torchvision
+  - torchaudio
+  - pytorch
+  - nltk
+  - psutil
+prefix: /opt/anaconda3/envs/wmg

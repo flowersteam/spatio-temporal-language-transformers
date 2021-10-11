@@ -1,0 +1,26 @@
+# data
+data/*
+*.txt
+#*.pk
+*.pt
+*.zip
+*.csv
+*.npy
+*.jbl
+
+# General MAC files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+Imagine/
+Imagine/*
+
+src/data_processing/*
+src/data/*
+*/data/*
+*/data_processing/*
+
+.idea
+*__pycache__*
