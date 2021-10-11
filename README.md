@@ -52,3 +52,14 @@ python train.py --architecture transformer_tft --dataset_dir 'path_to_downloaded
 ```
 
 To automatically select the hypermarameters used in the paper for each architecture, set the `--auto_hparams` flag to `True`.
+
+## Citation
+
+```
+@article{karch2021grounding,
+	title={Grounding Spatio-Temporal Language with Transformers},
+	author={Karch, Tristan and Teodorescu, Laetitia and Hofmann, Katja and Moulin-Frier, Clément and Oudeyer, Pierre-Yves},
+	journal={NeurIPS},
+	year={2021}
+}
+```
